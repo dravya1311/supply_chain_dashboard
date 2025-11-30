@@ -107,3 +107,4 @@ st.markdown(
     "<p style='text-align:center;'>📊 Supply Chain Dashboard | Designed by <b>Ravi Yadav</b></p>",
     unsafe_allow_html=True
 )
+
